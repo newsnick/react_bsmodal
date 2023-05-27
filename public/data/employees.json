@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Tom",
+    "department": "IT",
+    "location": "Hungary",
+    "photo": "./images/user.jpg",
+    "delete": "click to delete",
+    "update": "update"
+  },
+  {
+    "id": 2,
+    "name": "Jimmy",
+    "department": "IT",
+    "location": "Poland",
+    "photo": "./images/user.jpg",
+    "delete": "click to delete",
+    "update": "update"
+  },
+  {
+    "id": 3,
+    "name": "Bunny",
+    "department": "IT",
+    "location": "Poland",
+    "photo": "./user.jpg",
+    "delete": "click to delete",
+    "update": "update"
+  },
+  {
+    "id": 4,
+    "name": "Kim",
+    "department": "Sales",
+    "location": "Portugal",
+    "photo": "./images/user.jpg",
+    "delete": "click to delete",
+    "update": "update"
+  }
+]
